@@ -95,7 +95,7 @@ Wzrost tego stosunku w Argentynie może również wskazywać na wyższe koszty i
 
 ---
 
-![[Pasted image 20250112114358.png]]
+![](lineplot_dollar_exchange_selected_countries_enhanced.png)
 
 Wykres przedstawia zmienność kursu dolara w czasie dla wybranych krajów: Argentyny, Australii, Brazylii, Kanady i Szwajcarii. Zauważalne są różnice w dynamice kursu dolara w poszczególnych krajach, co odzwierciedla ich różne podejścia do polityki monetarnej, inflacji oraz wpływ globalnych czynników gospodarczych.
 
@@ -103,7 +103,7 @@ Dla Argentyny, zmienność kursu dolara jest wyraźnie większa, co może być e
 
 ---
 
-![[Pasted image 20250112114424.png]]
+![](lineplot_purchasing_power_index_moving_average.png)
 
 Wykres przedstawia średnią kroczącą wskaźnika siły nabywczej dla wybranych krajów: Kanady, Brazylii, Szwajcarii, Australii oraz Argentyny. Z analizy danych wynika, że wszystkie kraje charakteryzują się ogólnym trendem wzrostowym wskaźnika, jednak ich dynamika oraz amplituda fluktuacji różnią się znacząco.
 
@@ -111,13 +111,13 @@ Dla krajów rozwiniętych, takich jak Szwajcaria, trend wzrostowy jest bardziej 
 
 ---
 
-![[Pasted image 20250112114449.png]]
+![](boxplot_purchasing_power_index_by_country.png)
 
 Wykres typu boxplot przedstawia rozkład wskaźnika siły nabywczej w wybranych krajach (Argentyna, Australia, Brazylia, Kanada, Szwajcaria). Dzięki niemu można zaobserwować różnice w medianie oraz rozpiętości danych w poszczególnych krajach. Szwajcaria charakteryzuje się najwyższą medianą wskaźnika siły nabywczej, co wskazuje na jej silną walutę i wysoką siłę nabywczą w stosunku do dolara. Argentyna, z kolei, wykazuje największe rozproszenie danych, co sugeruje dużą zmienność siły nabywczej w czasie. Inne kraje, takie jak Kanada czy Australia, mają bardziej stabilne rozkłady z mniejszą rozpiętością wartości.
 
 ---
 
-![[Pasted image 20250112114330.png]]
+![](kde_price_diff_enhanced_country_color_mapping.png)
 
 Wykres przedstawia rozkład różnic między siłą nabywczą a lokalną ceną Big Maca dla wybranych krajów: Argentyny, Australii, Brazylii, Kanady i Szwajcarii. Widoczne są wyraźne cechy bimodalności dla wszystkich rozkładów, co oznacza, że w każdym przypadku występują dwa dominujące zakresy wartości. Sugeruje to istnienie dwóch różnych grup obserwacji, które mogą wynikać z czynników ekonomicznych, takich jak zmiany kursów walutowych, różnice w kosztach życia czy różne okresy gospodarcze.
 
@@ -127,7 +127,7 @@ Wykres pozwala na analizę różnic w rozkładach dla poszczególnych krajów or
 
 ---
 
-![[Pasted image 20250112114411.png]]
+![](heatmap_correlation_between_variables.png)
 
 Heatmapa przedstawia współczynniki korelacji między kluczowymi zmiennymi ekonomicznymi, takimi jak PKB na mieszkańca, lokalna cena Big Maca, kurs wymiany dolara, stosunek ceny Big Maca do PKB oraz wskaźnik siły nabywczej. Wyraźnie widać silną dodatnią korelację między lokalną ceną Big Maca a kursem wymiany dolara (0.970) oraz między ceną Big Maca a stosunkiem ceny do PKB (0.968). Pokazuje to, że cena Big Maca i kurs walutowy mają istotny wpływ na analizowane wskaźniki.
 
