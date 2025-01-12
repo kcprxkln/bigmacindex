@@ -78,7 +78,7 @@ Wiersze zawierające brakujące wartości w kluczowych kolumnach (np. `local_pri
 
 
 
-![[Pasted image 20250112114436.png]]
+![](bar_avg_gdp_per_capita.png)
 
 Wykres słupkowy przedstawia średnie wartości PKB dla każdego kraju. Słupki w tym wykresie ilustrują wartość średniego PKB w badanym okresie. Wartości są porównywalne między krajami, co pozwala na szybkie zauważenie różnic w poziomie PKB.
 
@@ -87,7 +87,7 @@ Wykres słupkowy przedstawia średnie wartości PKB dla każdego kraju. Słupki 
 
 ---
 
-![[Pasted image 20250112114347.png]]
+![](barplot_big_mac_to_gdp_ratio_comparison_2000_2020.png)
 
 Wykres przedstawia porównanie stosunku ceny Big Maca do PKB dla wybranych krajów w latach 2000 i 2020. Jak możemy zauważyć, stosunek ten zwiększył się dla wszystkich krajów, jednak szczególnym przypadkiem jest Argentyna, gdzie możemy zaobserwować ponad dwudziestokrotny wzrost tego wskaźnika. Może to być spowodowane wieloma czynnikami, w tym wysoką inflacją, deprecjacją lokalnej waluty oraz niestabilnością gospodarczą w Argentynie, co doprowadziło do gwałtownego wzrostu cen towarów, w tym Big Maca, w porównaniu do wzrostu PKB.
 
